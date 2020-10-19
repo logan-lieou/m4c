@@ -1,0 +1,79 @@
+[0:34:25.937] Global cache location '/home/loganj/.cache/typescript/4.0', safe file path '/home/loganj/Code/Javascript/m4c/node_modules/typescript/lib/typingSafeList.json', types map path /home/loganj/Code/Javascript/m4c/node_modules/typescript/lib/typesMap.json
+[0:34:25.938] Processing cache location '/home/loganj/.cache/typescript/4.0'
+[0:34:25.938] Trying to find '/home/loganj/.cache/typescript/4.0/package.json'...
+[0:34:25.939] Loaded content of '/home/loganj/.cache/typescript/4.0/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.512"},"devDependencies":{"@types/accepts":"^1.3.5","@types/atob":"^2.1.2","@types/body-parser":"^1.19.0","@types/bytes":"^3.1.0","@types/content-disposition":"^0.5.3","@types/content-type":"^1.1.3","@types/cookie":"^0.4.0","@types/cookie-signature":"^1.0.3","@types/cors":"^2.8.7","@types/debug":"^4.1.5","@types/depd":"^1.1.32","@types/destroy":"^1.0.0","@types/ee-first":"^1.1.0","@types/encodeurl":"^1.0.0","@types/escape-html":"^1.0.0","@types/etag":"^1.8.0","@types/express":"^4.17.8","@types/finalhandler":"^1.1.0","@types/forwarded":"^0.1.0","@types/fresh":"^0.5.0","@types/http-errors":"^1.8.0","@types/inherits":"0.0.30","@types/jsonwebtoken":"^8.5.0","@types/jws":"^3.2.2","@types/lodash.includes":"^4.3.6","@types/lodash.isboolean":"^3.0.6","@types/lodash.isinteger":"^4.0.6","@types/lodash.isnumber":"^3.0.6","@types/lodash.isplainobject":"^4.0.6","@types/lodash.isstring":"^4.0.6","@types/lodash.once":"^4.1.6","@types/media-typer":"^1.1.0","@types/merge-descriptors":"^1.0.1","@types/methods":"^1.1.1","@types/mime":"^2.0.3","@types/mime-db":"^1.43.0","@types/mime-types":"^2.1.0","@types/ms":"^0.7.31","@types/negotiator":"^0.6.1","@types/nodemon":"^1.19.0","@types/object-assign":"^4.0.30","@types/on-finished":"^2.3.1","@types/parseurl":"^1.3.1","@types/pg":"^7.14.5","@types/pg-pool":"^2.0.2","@types/pg-types":"^1.11.5","@types/proxy-addr":"^2.0.0","@types/qs":"^6.9.5","@types/range-parser":"^1.2.3","@types/safer-buffer":"^2.1.0","@types/semver":"^7.3.4","@types/send":"^0.14.5","@types/serve-static":"^1.13.5","@types/split":"^1.0.0","@types/statuses":"^2.0.0","@types/through":"0.0.30","@types/type-is":"^1.6.3","@types/utils-merge":"0.0.28","@types/vary":"^1.1.0","@types/xtend":"^4.0.3"}}
+[0:34:25.939] Loaded content of '/home/loganj/.cache/typescript/4.0/package-lock.json'
+[0:34:25.951] Adding entry into typings cache: 'accepts' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/accepts/index.d.ts'
+[0:34:25.955] Adding entry into typings cache: 'atob' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/atob/index.d.ts'
+[0:34:25.958] Adding entry into typings cache: 'body-parser' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/body-parser/index.d.ts'
+[0:34:25.961] Adding entry into typings cache: 'bytes' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/bytes/index.d.ts'
+[0:34:25.964] Adding entry into typings cache: 'content-disposition' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/content-disposition/index.d.ts'
+[0:34:25.967] Adding entry into typings cache: 'content-type' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/content-type/index.d.ts'
+[0:34:25.970] Adding entry into typings cache: 'cookie' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/cookie/index.d.ts'
+[0:34:25.972] Adding entry into typings cache: 'cookie-signature' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/cookie-signature/index.d.ts'
+[0:34:25.974] Adding entry into typings cache: 'cors' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/cors/index.d.ts'
+[0:34:25.978] Adding entry into typings cache: 'debug' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/debug/index.d.ts'
+[0:34:25.981] Adding entry into typings cache: 'depd' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/depd/index.d.ts'
+[0:34:25.985] Adding entry into typings cache: 'destroy' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/destroy/index.d.ts'
+[0:34:25.987] Adding entry into typings cache: 'ee-first' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/ee-first/index.d.ts'
+[0:34:25.989] Adding entry into typings cache: 'encodeurl' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/encodeurl/index.d.ts'
+[0:34:25.991] Adding entry into typings cache: 'escape-html' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/escape-html/index.d.ts'
+[0:34:25.994] Adding entry into typings cache: 'etag' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/etag/index.d.ts'
+[0:34:25.996] Adding entry into typings cache: 'express' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/express/index.d.ts'
+[0:34:25.998] Adding entry into typings cache: 'finalhandler' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/finalhandler/index.d.ts'
+[0:34:26.0] Adding entry into typings cache: 'forwarded' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/forwarded/index.d.ts'
+[0:34:26.1] Adding entry into typings cache: 'fresh' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/fresh/index.d.ts'
+[0:34:26.3] Adding entry into typings cache: 'http-errors' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/http-errors/index.d.ts'
+[0:34:26.5] Adding entry into typings cache: 'inherits' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/inherits/index.d.ts'
+[0:34:26.7] Adding entry into typings cache: 'jsonwebtoken' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/jsonwebtoken/index.d.ts'
+[0:34:26.9] Adding entry into typings cache: 'jws' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/jws/index.d.ts'
+[0:34:26.11] Adding entry into typings cache: 'lodash.includes' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.includes/index.d.ts'
+[0:34:26.13] Adding entry into typings cache: 'lodash.isboolean' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.isboolean/index.d.ts'
+[0:34:26.15] Adding entry into typings cache: 'lodash.isinteger' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.isinteger/index.d.ts'
+[0:34:26.17] Adding entry into typings cache: 'lodash.isnumber' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.isnumber/index.d.ts'
+[0:34:26.19] Adding entry into typings cache: 'lodash.isplainobject' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.isplainobject/index.d.ts'
+[0:34:26.22] Adding entry into typings cache: 'lodash.isstring' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.isstring/index.d.ts'
+[0:34:26.23] Adding entry into typings cache: 'lodash.once' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/lodash.once/index.d.ts'
+[0:34:26.26] Adding entry into typings cache: 'media-typer' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/media-typer/index.d.ts'
+[0:34:26.28] Adding entry into typings cache: 'merge-descriptors' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/merge-descriptors/index.d.ts'
+[0:34:26.31] Adding entry into typings cache: 'methods' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/methods/index.d.ts'
+[0:34:26.35] Adding entry into typings cache: 'mime' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/mime/index.d.ts'
+[0:34:26.37] Adding entry into typings cache: 'mime-db' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/mime-db/index.d.ts'
+[0:34:26.38] Adding entry into typings cache: 'mime-types' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/mime-types/index.d.ts'
+[0:34:26.40] Adding entry into typings cache: 'ms' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/ms/index.d.ts'
+[0:34:26.42] Adding entry into typings cache: 'negotiator' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/negotiator/index.d.ts'
+[0:34:26.44] Adding entry into typings cache: 'nodemon' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/nodemon/index.d.ts'
+[0:34:26.46] Adding entry into typings cache: 'object-assign' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/object-assign/index.d.ts'
+[0:34:26.48] Adding entry into typings cache: 'on-finished' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/on-finished/index.d.ts'
+[0:34:26.49] Adding entry into typings cache: 'parseurl' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/parseurl/index.d.ts'
+[0:34:26.52] Adding entry into typings cache: 'pg' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/pg/index.d.ts'
+[0:34:26.54] Adding entry into typings cache: 'pg-pool' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/pg-pool/index.d.ts'
+[0:34:26.55] Adding entry into typings cache: 'pg-types' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/pg-types/index.d.ts'
+[0:34:26.57] Adding entry into typings cache: 'proxy-addr' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/proxy-addr/index.d.ts'
+[0:34:26.58] Adding entry into typings cache: 'qs' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/qs/index.d.ts'
+[0:34:26.61] Adding entry into typings cache: 'range-parser' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/range-parser/index.d.ts'
+[0:34:26.65] Adding entry into typings cache: 'safer-buffer' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/safer-buffer/index.d.ts'
+[0:34:26.66] Adding entry into typings cache: 'semver' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/semver/index.d.ts'
+[0:34:26.68] Adding entry into typings cache: 'send' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/send/index.d.ts'
+[0:34:26.69] Adding entry into typings cache: 'serve-static' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/serve-static/index.d.ts'
+[0:34:26.70] Adding entry into typings cache: 'split' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/split/index.d.ts'
+[0:34:26.71] Adding entry into typings cache: 'statuses' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/statuses/index.d.ts'
+[0:34:26.73] Adding entry into typings cache: 'through' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/through/index.d.ts'
+[0:34:26.76] Adding entry into typings cache: 'type-is' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/type-is/index.d.ts'
+[0:34:26.79] Adding entry into typings cache: 'utils-merge' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/utils-merge/index.d.ts'
+[0:34:26.80] Adding entry into typings cache: 'vary' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/vary/index.d.ts'
+[0:34:26.82] Adding entry into typings cache: 'xtend' => '/home/loganj/.cache/typescript/4.0/node_modules/@types/xtend/index.d.ts'
+[0:34:26.82] Finished processing cache location '/home/loganj/.cache/typescript/4.0'
+[0:34:26.82] Process id: 14108
+[0:34:26.82] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[0:34:26.82] validateDefaultNpmLocation: false
+[0:34:26.82] Npm config file: /home/loganj/.cache/typescript/4.0/package.json
+[0:34:26.83] Updating types-registry npm package...
+[0:34:26.83] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[0:34:32.510]     Succeeded. stdout:
+    + types-registry@0.1.512
+    updated 1 package and audited 72 packages in 5.86s
+found 0 vulnerabilities
+
+
+[0:34:32.510] Updated types-registry npm package
